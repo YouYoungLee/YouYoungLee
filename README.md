@@ -1,7 +1,6 @@
 ### YouYoungLee
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYoungLee&show_icons=true&theme=radical)
-[![Solved.ac
-dldbdud123](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dldbdud123)](https://solved.ac/dldbdud123)<br/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=TypeScript&logoColor=white"/>
 <!--
 **YouYoungLee/YouYoungLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
