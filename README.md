@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YouYoung&fontSize=61)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YouYoung&fontSize=60)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYoungLee&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dldbdud123)](https://solved.ac/dldbdud123)<br/>
